@@ -5005,5 +5005,12 @@
     "color": "#11459A",
     "overlay": false,
     "contributors": "fankes, 770317429"
+  },
+  "com.cfmoto": {
+    "label": "ZEEHO",
+    "format": "png",
+    "color": "#EDFF00",
+    "overlay": false,
+    "contributors": "fankes, 770317429"
   }
 }
